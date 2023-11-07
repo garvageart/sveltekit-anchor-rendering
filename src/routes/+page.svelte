@@ -124,21 +124,4 @@
 		flex-direction: column;
 		justify-content: center;
 	}
-
-	#post-ctx-menu {
-		position: absolute;
-		bottom: 0px;
-		right: 0px;
-		margin: 0em 1em;
-	}
-
-	#new-post-button {
-		width: 5em;
-		display: flex;
-		flex-direction: row;
-		background-color: var(--almost-white);
-		cursor: pointer;
-		transition: background-color 0.3s ease;
-		margin: 0 1em 0 0;
-	}
 </style>
